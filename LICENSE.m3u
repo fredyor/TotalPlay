@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:0,Demo de IPTV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F1&mode=12
+#EXTINF:0,AZ NOTICIAS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F1&mode=12
+#EXTINF:0,TELEVISA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F2&mode=12
+#EXTINF:0,CANAL 5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F3&mode=12
+#EXTINF:0,FORO TV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F4&mode=12
+#EXTINF:0,AZTECA 7
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F5&mode=12
+#EXTINF:0,GALAVISION
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F6&mode=12
+#EXTINF:0,CANAL11
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F7&mode=12
+#EXTINF:0,AZTECA 13
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F8&mode=12
+#EXTINF:0,PROYECTO 40
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F9&mode=12
+#EXTINF:0,UNO MAS UNO
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F10&mode=12
+#EXTINF:0,TELEFORMULA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F11&mode=12
+#EXTINF:0,MULTIMEDIOS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F12&mode=12
+#EXTINF:0,HMX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F13&mode=12
+#EXTINF:0,FOX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F14&mode=12
+#EXTINF:0,SONY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F15&mode=12
+#EXTINF:0,WARNER
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F16&mode=12
+#EXTINF:0,UNIVERSAL
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F17&mode=12
+#EXTINF:0,A&E
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F18&mode=12
+#EXTINF:0,AXN
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F19&mode=12
+#EXTINF:0,TRUTV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F20&mode=12
+#EXTINF:0,COMEDY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F21&mode=12
+#EXTINF:0,UNICABLE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F22&mode=12
+#EXTINF:0,HOLATV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F23&mode=12
+#EXTINF:0,FASHION TV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F24&mode=12
+#EXTINF:0,MAS CHIC
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F25&mode=12
+#EXTINF:0,AZ CORAZON
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F26&mode=12
+#EXTINF:0,FOX HD
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F27&mode=12
+#EXTINF:0,BBC ENTERTAINMENT
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F28&mode=12
+#EXTINF:0,E!
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F29&mode=12
+#EXTINF:0,UNIVERSAL-2
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F30&mode=12
+#EXTINF:0,SYFY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F31&mode=12
+#EXTINF:0,FX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F32&mode=12
+#EXTINF:0,INVESTIGATION DISCOVERY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F33&mode=12
+#EXTINF:0,TNT SERIES
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F34&mode=12
+#EXTINF:0,EL GOURMET
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F35&mode=12
+#EXTINF:0,GARAGE TV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F36&mode=12
+#EXTINF:0,GLITZ
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F37&mode=12
+#EXTINF:0,FOXLIFE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F38&mode=12
+#EXTINF:0,DISTRITO COMEDIA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F39&mode=12
+#EXTINF:0,TBS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F40&mode=12
+#EXTINF:0,TL NOVELAS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F41&mode=12
+#EXTINF:0,AZMUNDO
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F42&mode=12
+#EXTINF:0,TRENDY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F43&mode=12
+#EXTINF:0,DISCOVERY KIDS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F44&mode=12
+#EXTINF:0,CBEEBIES
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F45&mode=12
+#EXTINF:0,DISNEY JR
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F46&mode=12
+#EXTINF:0,NICK JR
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F47&mode=12
+#EXTINF:0,DISNEY CHANNEL
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F48&mode=12
+#EXTINF:0,NICKTOONS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F49&mode=12
+#EXTINF:0,NICK
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F50&mode=12
+#EXTINF:0,NIKELODEON
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F51&mode=12
+#EXTINF:0,CARTOON NETWORK
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F52&mode=12
+#EXTINF:0,DISNEY XD
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F53&mode=12
+#EXTINF:0,BOOMERANG
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F54&mode=12
+#EXTINF:0,TIIN
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F55&mode=12
+#EXTINF:0,TOONCAST
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F56&mode=12
+#EXTINF:0,DISCOVERY THEATER
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F57&mode=12
+#EXTINF:0,HISTORY
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F58&mode=12
+#EXTINF:0,NATGEO WILD
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F59&mode=12
+#EXTINF:0,DISCOVERY WORLD
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F60&mode=12
+#EXTINF:0,DISCOVERY CHANNEL
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F61&mode=12
+#EXTINF:0,ANIMAL PLANET
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F62&mode=12
+#EXTINF:0,DISCOVERY HOME&HEALT
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F63&mode=12
+#EXTINF:0,NATGEO
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F64&mode=12
+#EXTINF:0,LIFETIME
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F65&mode=12
+#EXTINF:0,DISCOVERY SCIENCE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F66&mode=12
+#EXTINF:0,DISCOVERY CIVILIZATION
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F67&mode=12
+#EXTINF:0,DISCOVERY TURBO
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F68&mode=12
+#EXTINF:0,DISCOVERY TLC
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F69&mode=12
+#EXTINF:0,WOBI
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F70&mode=12
+#EXTINF:0,FOX 1
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F71&mode=12
+#EXTINF:0,FOX ACTIONS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F72&mode=12
+#EXTINF:0,FOX MOVIES
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F73&mode=12
+#EXTINF:0,FOX CINEMA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F74&mode=12
+#EXTINF:0,FOX CLASSICS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F75&mode=12
+#EXTINF:0,AZ CINEMA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F76&mode=12
+#EXTINF:0,CINECANAL
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F77&mode=12
+#EXTINF:0,TNT
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F78&mode=12
+#EXTINF:0,GOLDEN HD
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F79&mode=12
+#EXTINF:0,FILM ZONE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F80&mode=12
+#EXTINF:0,DE PELICULA
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F81&mode=12
+#EXTINF:0,AMC
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F82&mode=12
+#EXTINF:0,SPACE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F83&mode=12
+#EXTINF:0,CINECANAL PLUS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F84&mode=12
+#EXTINF:0,CINEMAX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F85&mode=12
+#EXTINF:0,GOLDEN EDGE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F86&mode=12
+#EXTINF:0,AMC-2
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F87&mode=12
+#EXTINF:0,SPACE-2
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F88&mode=12
+#EXTINF:0,STUDIOS UNIVERSAL
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F89&mode=12
+#EXTINF:0,I SAT
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F90&mode=12
+#EXTINF:0,TCM
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F91&mode=12
+#EXTINF:0,F1
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F92&mode=12
+#EXTINF:0,ESPN +
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F93&mode=12
+#EXTINF:0,ESPN 3
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F94&mode=12
+#EXTINF:0,FOX SPORTS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F95&mode=12
+#EXTINF:0,FOX SPORTS 2
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F96&mode=12
+#EXTINF:0,PX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F97&mode=12
+#EXTINF:0,ESPN
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F98&mode=12
+#EXTINF:0,ESPN 2
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F99&mode=12
+#EXTINF:0,AYM SPORTS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F100&mode=12
+#EXTINF:0,MILENIO TV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F101&mode=12
+#EXTINF:0,EL FINANCIERO BLOOMBERG
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F102&mode=12
+#EXTINF:0,TVE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F103&mode=12
+#EXTINF:0,MTV LIVE
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F104&mode=12
+#EXTINF:0,VH1
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F105&mode=12
+#EXTINF:0,TELEHITS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F106&mode=12
+#EXTINF:0,AZCLIC
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F107&mode=12
+#EXTINF:0,MTV
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F108&mode=12
+#EXTINF:0,MTV HITS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F109&mode=12
+#EXTINF:0,VH1 CLASSICS
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F110&mode=12
+#EXTINF:0,RITMOSON
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F111&mode=12
+#EXTINF:0,BANDAMAX
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F112&mode=12
+#EXTINF:0,NOSECUALES
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F113&mode=12
+#EXTINF:0,FOX-PROFILE-5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F114&mode=12
+#EXTINF:0,GOLDEN-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F115&mode=12
+#EXTINF:0,MTV-LIVE-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F116&mode=12
+#EXTINF:0,FOX1-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F117&mode=12
+#EXTINF:0,ESPN -PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F118&mode=12
+#EXTINF:0,FOXSPORTS-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F119&mode=12
+#EXTINF:0,SONY-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F120&mode=12
+#EXTINF:0,TNT-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F121&mode=12
+#EXTINF:0,TNT-SERIES-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F122&mode=12
+#EXTINF:0,HISTORY-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F123&mode=12
+#EXTINF:0,CARTOON-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F124&mode=12
+#EXTINF:0,AXN-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F125&mode=12
+#EXTINF:0,A&E-PROFILE5
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F126&mode=12
+#EXTINF:0,TyC Sports ARG
+plugin://plugin.video.Stallion-IPTV/?url=http%3A%2F%2F149.56.98.60%3A999%2Flive%2Fdemo22%2Fdemo22%2F127&mode=12
