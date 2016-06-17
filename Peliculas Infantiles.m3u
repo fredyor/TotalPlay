@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:0,
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-f3s3khvrtkrm-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-18y6e7wba1kj-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,101 Dalmatians (1961)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-mva9ezv3s4zb-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,A Little Mother Goose (2000)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-i14cw87189c3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Annie
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-ywca7ut4vqhe-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Arthur Christmas: Operación regalo
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-i5rvwpeyjpcy-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Astérix y la residencia de los dioses
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-7irohbt4djmm-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Las aventuras de Tadeo Jones
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-7a1ik3b1pw5d-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Aviones: Equipo de rescate
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-1ht452xdoik3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Barney A-Counting We Will Go (2010)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-fwabwbp4hftq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Barney Let's Go To The Farm (2005)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-uhlidwa1rbbq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Barney Let's Go To The Farm (2005)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-uhlidwa1rbbq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Barney: Todos somos especiales
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-q39qbd6vu6kq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La bella durmiente
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-uk9qrphgprl4-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La Bella y la Bestia 2: una navidad encantada
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-l7igjpb9drh7-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Big Hero 6
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-1pptmv5cndjw-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Big Hero 6
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-1pptmv5cndjw-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Blancanieves y los siete enanitos
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-71xkmklh9znl-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Bob Esponja: La película
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-hj2v43xrccw5-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Los Boxtrolls
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-rhvx6tbvi2r5-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Brave
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-nzoevaa9asn3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Buscando a Nemo
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-5mjzz46xah3c-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Campanilla y el gran rescate
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-512dtuinbije-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Campanilla y la leyenda de la bestia
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-z8sgw7hk13ep-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Campanilla, El secreto de las hadas
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-jro3l2bmitqw-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Campanilla, hadas y piratas
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-tkfpfkj70ax7-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Celebra la navidad con Mickey, Donald y sus amigos
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-s77yc7chz1az-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Cenicienta
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-aikpfpbx3mbu-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Cómo entrenar a tu dragón 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-91dfo0wsffrk-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Despicable Me Presents Minion Madness (2010)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-zey32bxb1gy8-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Don Gato y su pandilla
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-1ovp2r5tvu0e-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Dora la Exploradora: Aventura de Navidad
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-b9xyubyibhfl-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Dragon Ball Z: La Resurrección de Freezer
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-8j7dbc4urtht-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La edad de hielo: Una navidad tamaño mamut
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-64yxlsytmk8v-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Enredados
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-7a7m2qox2vmx-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Fantástico Sr. Fox
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-kvuh0v59c2rf-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La Fiesta de Kung Fu Panda
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-30vcurjm5ut9-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Frozen: El reino del hielo
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-hujuj189rblp-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El gigante de hierro
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-zknevsen1zjt-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Gru - Mi villano favorito
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-uj4m9msc8jxa-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Gru 2. Mi villano favorito
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-s4k97b0y0nki-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Hotel Transilvania 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-bakmvl6yq7iy-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Ice Age 2: El deshielo
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-p3qb0t5j9ogd-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Ice Age 3: El origen de los dinosaurios
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-sonhq1sci3fy-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Ice Age 4: La formación de los continentes
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-yrpqgw0u095u-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Ice Age 4: La formación de los continentes
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-kqv1fbpjgdoo-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El Inventor de Juegos
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-3zqpm7ztnscz-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Kung Fu Panda
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-clvuezxk2hje-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Kung Fu Panda
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-clvuezxk2hje-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Kung Fu Panda 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-s5estg9uwdfr-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Legends of Oz: Dorothy's Return
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-nxaod7x5b16x-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La LEGO película
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-rgh6qwhv32t4-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La leyenda de las momias de Guanajuato
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-obtvzjr1b5ca-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El libro de la vida
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-13rakdrg7wil-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La Liga de la Justicia contra la Liga de Bizarro
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-kivauez7qlvn-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La Liga de la Justicia: Guerra
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-jgwalllychal-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Lluvia de Albóndigas 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-02hilb97east-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La maldición de los hoyos
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-1dsm6mhc7h9g-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Maléfica
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-uxij4rdv68tr-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Mary and Max
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-xleie73bd059-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Metegol
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-tlaqqaeelcv3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Mi vecino Totoro
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-a2zclskafycq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Monstruos University
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-vj6a6ifxuh20-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Monstruos, S.A.
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-fd76om3aiv67-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Los Muppets en el espacio
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-3018jagxzrhb-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Nausicaä del Valle del Viento
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-wzd99i5j7yed-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Nicky, la aprendiz de bruja
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-sfse2tcf55tq-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Noche en el museo: El secreto del faraón
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-jkh08jul93hw-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La novia cadáver
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-igthz1z93qe3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La novia cadáver
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-x87puhqhwnbe-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La novicia rebelde
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-cflsj9b51nv0-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Operación cacahuete
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-xr7hyjs8g89w-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La oveja Shaun: La película
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-ljom9lxq1d0n-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Paddington
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-wbbr9rgigh5q-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Peter Pan
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-albtq4l558au-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Peter Pan en Regreso al país de Nunca Jamás
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-m537jocbj1qj-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Phineas y Ferb: Misión Marvel
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-yetebu2vupj3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Los Pingüinos de Madagascar
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-nffvxccf7ejt-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Pinocho
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-nttt2scpgs1r-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El Principito
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-33dnwqiuy5hd-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Red, Yellow and Blue! (2002)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-9ydzjdxz8uq4-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El rey león
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-o2h627kzrfvm-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El rey león
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-f36otssl36sv-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Río 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-nfse9r9hrkf2-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,El séptimo enanito
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-dtbeb57h5nm6-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Shrek
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-zxukmsditkiu-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La Sirenita 
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-dwbfxht23y15-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,La sirenita (1997)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-a0jm1pq0wavr-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Solo en casa 2: Perdido en Nueva York
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-2zy0aqyqa06v-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Thomas & Friends Tale of the Brave (2014)
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-si3tlmb2g1u8-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Thomas And Friends making tracks to great destinations
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-o9sdyqv9ia20-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Tom y Jerry y el Dragón Perdido
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-lfik3grznhee-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Las Tortugas Ninja
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-bpi181bgcua1-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story ¡de terror!
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-f9etiud9u2ux-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-3zfkhp5kkwl3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-rnc0fxa2pmwe-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story Toons: Fiesta Saurio Rex
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-wq1wxgxjr35a-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story Toons: Pequeño gran Buzz
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-tqbcyvso5cye-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story Toons: Vacaciones en Hawai
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-wboqurqputs8-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story Toons: Vacaciones en Hawai
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-25gtkm1x6ec7-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Toy Story, el tiempo perdido
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-mzpe4kdq6ygr-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Un gallo con muchos Huevos
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-b18l0hwdx73d-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Una navidad sin Pluto Parte 1
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-9efh19ttkhg9-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Una navidad sin Pluto Parte 2
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-7srpnc5fb2k7-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Up
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-mtzcvvtamoye-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,WALL·E
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-9jfa3hdefhb8-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace & Gromit's Cracking Contraptions
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-2teuabi8j2ai-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: La gran excursión
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-whzris13dszt-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: La gran excursión
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-bj6kz6mom1zx-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: la maldición de las verduras
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-mhj40t5b2f3k-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: Los pantalones equivocados
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-9uj328x5uee2-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: un asunto de pan o muerte
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-65p8ha3odzd3-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Wallace y Gromit: Un esquilado apurado
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-ojdjo2hazpo8-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Winnie the Pooh
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-5d2qepxer7d1-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
+#EXTINF:0,Winnie the Pooh: Unas navidades Megapooh
+plugin://plugin.video.Stallion-IPTV/?url=%24doregex%5Bid%5D&mode=17&regexs=%7Bu%27id%27%3A%20%7B%27refer%27%3A%20u%27http%3A//streamin.to%27%2C%20%27page%27%3A%20u%27http%3A//streamin.to/embed-7a7szpgfmeyc-740x360.html%27%2C%20%27expre%27%3A%20u%22file%3A%27%28.%2A%29%27%22%7D%7D
